@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/an-imp/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/an-imp/Operationalize-a-Machine-Learning-Microservice-API)
+[![CircleCI](https://circleci.com/gh/an-imp/Operationalize-a-Machine-Learning-Microservice-API-with-using-Kubernetes.svg?style=svg)](https://circleci.com/gh/an-imp/Operationalize-a-Machine-Learning-Microservice-API-with-using-Kubernetes)
 
 # Operationalize a Machine Learning Microservice API
 Udacity Cloud DevOps Engineer Nanodegree
